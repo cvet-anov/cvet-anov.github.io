@@ -253,7 +253,7 @@ img{
     row-gap: 2rem;
 }
 .skills__subtitle{
-    color: var(--first-color);
+    color: white;
     margin-bottom: var(--mb-3);
 }
 .skills__name{
@@ -269,7 +269,7 @@ img{
 }
 .skills__name:hover{
     background-color: var(--first-color);
-    color: var(--white-color);
+    color: white;
 }
 .skills__img img{
     border-radius: .5rem;
