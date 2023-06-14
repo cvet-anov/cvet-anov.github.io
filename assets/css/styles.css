@@ -258,7 +258,7 @@ img{
 }
 .skills__name{
     display: inline-block;
-    background: white;
+    background: black;
     color: white;
     font-size: var(--small-font-size);
     margin-right: var(--mb-2);
